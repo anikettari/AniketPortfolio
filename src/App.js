@@ -10,16 +10,19 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    // <BrowserRouter basename={process.env.PUBLIC_URL}>
     <div >
     <Header />
       <Switch>
+     
         <Route exact path="/"  component={Home}/>
         <Route exact path="/aboutme" component={Aboutme} />
+        
       </Switch>
       <Footer />
+    
     </div>
-    </BrowserRouter>
+    // </BrowserRouter>
   );
 }
 
