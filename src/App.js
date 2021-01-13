@@ -14,11 +14,8 @@ function App() {
     <div >
     <Header />
       <Switch>
-    
-    
         <Route exact path="/"  component={Home}/>
         <Route exact path="/aboutme" component={Aboutme} />
-      
       </Switch>
       <Footer />
     </div>
