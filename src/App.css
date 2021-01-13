@@ -1,0 +1,28 @@
+
+.blackimage{ 
+    background-color:#d4d9f7 ;  
+}
+.darkblue{
+    color:#4b4e60 !important;   
+}
+.orange{   
+    color:#ff6464;
+}
+.fontchange{
+    font-size: 2rem !important;
+}
+.fontchange1{
+    font-size: 1.5rem !important;
+}
+
+.onchange :hover{
+  color:#ff6464 !important;  
+}
+.paddingFooter{
+    padding: 120px 20px 20px 5px;
+}
+
+.darkblue .h7{
+    opacity: 0.5;
+
+}
