@@ -40,8 +40,8 @@ const Home =()=>{
                     animate={{y:0}}
                     transition={{ duration: 1.5,delay:1, type:"spring",stiffness:120}}
                     lg={2} md={2} sm={3}  className="pr-2 mx-sm-auto">
-                   <a href={'//www.mylink.com'} target="_blank">
-                     <FontAwesomeIcon  className="darkblue" icon ={faFacebook} size = '2x'/>
+                   <a href={'//www.linkedin.com/in/aniket-tari-231aaa1b5/'} target="_blank">
+                     <FontAwesomeIcon  className="darkblue" icon ={faLinkedin} size = '2x'/>
                     </a>
                    </motion.Col>
 
@@ -51,8 +51,8 @@ const Home =()=>{
                     transition={{ duration: 1.5 ,delay:2,type:"spring",stiffness:120}}
                   
                     lg={2} md={2} sm={3}  className="pr-2 mx-sm-auto">
-                   <a href={'//www.mylink.com'} target="_blank">
-                     <FontAwesomeIcon className="darkblue" icon ={faLinkedin} size = '2x'/>
+                   <a href={'//www.facebook.com/aniket.tari/'} target="_blank">
+                     <FontAwesomeIcon className="darkblue" icon ={faFacebook} size = '2x'/>
                      </a>
                    </motion.Col>
 
@@ -62,7 +62,7 @@ const Home =()=>{
                    transition={{ duration: 1.5 ,delay:2.5,type:"spring",stiffness:120}}
                     
                      lg={2} md={2} sm={3}className="pr-2 mx-sm-auto">
-                   <a href={'//www.mylink.com'} target="_blank">
+                   <a href={'//www.github.com/anikettari'} target="_blank">
                      <FontAwesomeIcon className="darkblue" icon ={faGithub} size = '2x'/>
                      </a>
                    </motion.Col>

@@ -9,20 +9,20 @@
     color:#ff6464;
 }
 .fontchange{
-    font-size: 2rem !important;
+    font-size: 1.5rem !important;
 }
 .fontchange1{
-    font-size: 1.5rem !important;
+    font-size: 1.2rem !important;
 }
 
 .onchange :hover{
   color:#ff6464 !important;  
 }
 .paddingFooter{
-    padding: 120px 20px 20px 5px;
+    padding: 10px 20px 10px 20px;
 }
 
 .darkblue .h7{
-    opacity: 0.5;
+    opacity: 0.3;
 
 }
