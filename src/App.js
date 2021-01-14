@@ -13,11 +13,12 @@ function App() {
     // <BrowserRouter basename={process.env.PUBLIC_URL}>
     <div >
     <Header />
+   
       <Switch>
      
         
         <Route exact path="/aboutme" component={Aboutme} />
-        <Route exact path="/"  component={Home}/>
+        <Route exact path="/AniketPortfolio" component={Home}/>
         
       </Switch>
       <Footer />
