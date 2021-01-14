@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/AniketPortfolio/static/css/main.7a20769a.chunk.css",
-    "main.js": "/AniketPortfolio/static/js/main.8b4a69ac.chunk.js",
-    "main.js.map": "/AniketPortfolio/static/js/main.8b4a69ac.chunk.js.map",
+    "main.css": "/AniketPortfolio/static/css/main.0c7054df.chunk.css",
+    "main.js": "/AniketPortfolio/static/js/main.658988b4.chunk.js",
+    "main.js.map": "/AniketPortfolio/static/js/main.658988b4.chunk.js.map",
     "runtime-main.js": "/AniketPortfolio/static/js/runtime-main.4a9bcfd1.js",
     "runtime-main.js.map": "/AniketPortfolio/static/js/runtime-main.4a9bcfd1.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/AniketPortfolio/static/css/2.ae9f1eb3.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.ac1006f0.chunk.js.map": "/AniketPortfolio/static/js/3.ac1006f0.chunk.js.map",
     "index.html": "/AniketPortfolio/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/AniketPortfolio/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.7a20769a.chunk.css.map": "/AniketPortfolio/static/css/main.7a20769a.chunk.css.map",
+    "static/css/main.0c7054df.chunk.css.map": "/AniketPortfolio/static/css/main.0c7054df.chunk.css.map",
     "static/js/2.2a4485fa.chunk.js.LICENSE.txt": "/AniketPortfolio/static/js/2.2a4485fa.chunk.js.LICENSE.txt",
     "static/media/AniketCV.e1a6fceb.pdf": "/AniketPortfolio/static/media/AniketCV.e1a6fceb.pdf",
     "static/media/homepage.f21a945a.gif": "/AniketPortfolio/static/media/homepage.f21a945a.gif",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.4a9bcfd1.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.2a4485fa.chunk.js",
-    "static/css/main.7a20769a.chunk.css",
-    "static/js/main.8b4a69ac.chunk.js"
+    "static/css/main.0c7054df.chunk.css",
+    "static/js/main.658988b4.chunk.js"
   ]
 }
