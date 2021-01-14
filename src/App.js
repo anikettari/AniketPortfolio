@@ -18,7 +18,7 @@ function App() {
      
         
         <Route exact path="/aboutme" component={Aboutme} />
-        <Route exact path="/AniketPortfolio" component={Home}/>
+        <Route exact path="" component={Home}/>
         
       </Switch>
       <Footer />

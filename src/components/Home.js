@@ -15,7 +15,7 @@ const Home =()=>{
     return(
        
         <div className="blackimage ">
-          <Container fluid >
+          <Container  >
             <Row >
                 <Col lg={6} md={6} sm={12} className=" mt-5  mx-auto d-flex justify-content-center flex-column">
               
@@ -36,8 +36,9 @@ const Home =()=>{
 
                  <Row className=" mt-3 mx-auto">
                    <motion.Col 
-                    initial={{y:"50vh"}}
+                    initial={{y:"42vh"}}
                     animate={{y:0}}
+                   
                     transition={{ duration: 1.5,delay:1, type:"spring",stiffness:120}}
                     lg={2} md={2} sm={3}  className="pr-2 mx-sm-auto">
                    <a href={'//www.linkedin.com/in/aniket-tari-231aaa1b5/'} target="_blank">
@@ -46,7 +47,7 @@ const Home =()=>{
                    </motion.Col>
 
                    <motion.Col 
-                    initial={{y:"50vh"}}
+                    initial={{y:"42vh"}}
                     animate={{y:0}}
                     transition={{ duration: 1.5 ,delay:2,type:"spring",stiffness:120}}
                   
@@ -57,7 +58,7 @@ const Home =()=>{
                    </motion.Col>
 
                    <motion.Col 
-                   initial={{y:"50vh"}}
+                   initial={{y:"42vh"}}
                    animate={{y:0}}
                    transition={{ duration: 1.5 ,delay:2.5,type:"spring",stiffness:120}}
                     
@@ -67,8 +68,10 @@ const Home =()=>{
                      </a>
                    </motion.Col>
                    <motion.Col 
-                    initial={{y:"50vh"}}
+                    initial={{y:"42vh"}}
                    animate={{y:0}}
+                 
+                
                    transition={{ duration: 1.5 ,delay:3,type:"spring",stiffness:120}}
                   
                     lg={2} md={2} sm={3}  className="pr-2 mx-sm-auto">
@@ -83,7 +86,7 @@ const Home =()=>{
 
                <Col lg={6} md={6} sm={12} >
                 
-                 <Image  className="mt-5 p-4 mx-auto img-fluid" src={logo} alt="Logo" />
+                 <Image  className="mt-5 p-3 mx-auto img-fluid" src={logo} alt="Logo" />
                  </Col>
 
            </Row>

@@ -20,10 +20,10 @@ const Aboutme = () => {
                 initial={{y:-70}}
                 animate={{y:0}}
                 transition={{ duration: 1.5 ,type:"spring",stiffness:120}}
-                lg={4} md={6} sm={8} className="pt-3 mt-2 mx-auto d-flex justify-content-center flex-column ">
+                lg={4} md={6} sm={8} className="p-3 mt-2 mx-auto d-flex justify-content-center flex-column ">
       
                 <motion.h1 
-               className="orange mx-auto"
+               className="orange "
                initial={{x:"90vh"}}
                animate={{x:0}}
                transition={{ duration: 2 ,type:"spring",stiffness:120}}
@@ -56,7 +56,24 @@ const Aboutme = () => {
              initial={{x:90}}
              animate={{x:0}}
              transition={{ duration: 2 ,type:"spring",stiffness:120}}
-           > Worked as a Front-End Developer for around 3 months.Extensively worked developing Responsive Web Applications. Experience in developing web page effectively using HTML CSS and Bootstrap in making web pages cross-browser compatible.<br></br>Contact Details:[Phone:7972709154][Email:tarianiket55@gmail.com]</motion.h5>
+
+           >  <br></br>
+                Worked as a Front-End Developer using ReactJs.
+           <br></br>
+           <br></br>
+           Extensively worked on developing Responsive Web Applications.
+           <br></br>
+           <br></br>
+            Experience in developing web page effectively using HTML CSS and Bootstrap.
+            <br></br>
+            <br></br>
+            Build reusable code for future use and optimized web pages.
+            <br></br>
+            <br></br>
+            Contact Details:Phone:7972709154
+            <br></br>
+            <br></br>
+            Email:tarianiket55@gmail.com</motion.h5>
             </motion.Col>
             </Row>
             </Container>
@@ -75,11 +92,15 @@ const Aboutme = () => {
                 transition={{ duration: 2 ,type:"spring",stiffness:120}}
 
                  >Experience</motion.h3>
+                 <br></br>
                 <ui>
-                    <h5>3 Months Internship at Sparkplus Tech.</h5>
-                    <h5>Worked on various Projects During this Internship.</h5>
+                    <h5>3 months Internship at Sparkplus Tech.</h5>
+                    <br></br>
+                    <h5>Worked on various live projects during this Internship.</h5>
+                    <br></br>
                 </ui>
                 <h4 >Certification</h4>
+                <br></br>
                 <h5>Complete Web development Bootcamp 2020: Udemy</h5>
 
 
@@ -92,8 +113,10 @@ const Aboutme = () => {
                 transition={{ duration: 2 ,type:"spring",stiffness:120}}
 
                  >Technology</motion.h3>
+                 <br></br>
                      <ui>
                     <h5>HTML/CSS Bootstrap.</h5>
+                    <br></br>
                     <h5>ReactJs</h5>
                 </ui>
                 </Col>
